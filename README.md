@@ -1,4 +1,4 @@
-# Hi there, I'm Ektha! 👋
+# Hi there, I'm Ektha M! 👋
 
 🎓 MCA Student | Aspiring Software Developer
 
