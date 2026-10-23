@@ -1,83 +1,101 @@
 # Hi there, I'm Ektha M! 👋
 
-🎓 **MCA Student | Aspiring Software Developer | Machine Learning Enthusiast**
+### 🎓 MCA Student | Aspiring Software Developer | Exploring AI & Machine Learning
 
-Welcome to my GitHub profile! I'm a Master of Computer Applications (MCA) student passionate about programming, artificial intelligence, machine learning, and building practical projects.
+Welcome to my GitHub profile! I'm a Master of Computer Applications (MCA) student passionate about technology, problem-solving, and building practical projects using Python, Machine Learning, and Artificial Intelligence.
 
-## 🚀 About Me
+I enjoy learning new technologies and turning ideas into working applications.
 
-- 🎓 Pursuing my Master of Computer Applications (MCA).
-- 💻 Learning Python and software development.
-- 🤖 Exploring Machine Learning and Artificial Intelligence.
-- 🌐 Building web applications using Python and frontend technologies.
-- 🌱 Continuously learning and improving my technical skills.
-- 🎯 Interested in developing practical solutions through technology.
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Currently pursuing my **Master of Computer Applications (MCA)**.
+- 🤖 Exploring **Machine Learning, Artificial Intelligence, and LLMs**.
+- 🐍 Building projects using Python and data science libraries.
+- 🌐 Learning to develop interactive web applications.
+- 📚 Continuously improving my programming and problem-solving skills.
+- 🎯 Working towards building useful, real-world technology solutions.
+
+---
 
 ## 🛠️ Technologies & Tools
 
-**Programming**
+**Languages**
 - Python
+- HTML
+- CSS
+- JavaScript
 
 **Machine Learning & Data Analysis**
 - Scikit-learn
 - Pandas
 - NumPy
 - Matplotlib
+- Plotly
 
-**Web Development**
+**Web Development & AI**
 - Flask
-- HTML
-- CSS
-- JavaScript
 - Streamlit
-
-**AI & Development Tools**
 - Ollama
-- Git
-- GitHub
+- Large Language Models (LLMs)
+
+**Tools**
+- Git & GitHub
 - VS Code
 
-## 📌 Featured Projects
+---
 
-### 🎢 QueueWise – Amusement Park Queue Waiting Time Prediction
-A machine learning web application that predicts estimated ride waiting times using a trained regression model.
+## 🚀 Featured Projects
+
+### 🎢 [QueueWise – Amusement Park Queue Prediction](https://github.com/ekthavijayesh/QueueWise-Amusement-Park)
+A machine learning project that predicts amusement park queue waiting times using Python, Flask, and an Extra Trees regression model.
 
 **Technologies:** Python, Flask, Scikit-learn, Pandas, HTML, CSS, JavaScript
 
-[View Project](https://github.com/ekthavijayesh/QueueWise-Amusement-Park)
+### 📊 [AI-Powered Sales Data Analysis](https://github.com/ekthavijayesh/AI-Powered-sales-Data-Analysis-)
+An interactive sales analytics project designed to explore sales data, visualize business insights, and incorporate AI-powered analysis.
 
-### 🏠 House Price Prediction
-A machine learning project that estimates house prices using housing data and regression models.
+**Technologies:** Python, Pandas, Streamlit, Plotly, Ollama
 
-**Technologies:** Python, Pandas, Scikit-learn, Streamlit
+### 🏡 [House Price Prediction](https://github.com/ekthavijayesh/House-Price-Prediction)
+A machine learning web application that estimates Bengaluru property prices using housing data and regression models.
 
-### 🏦 Loan Approval Prediction
+**Technologies:** Python, Pandas, Scikit-learn, Random Forest, Streamlit
+
+### 🏦 [Loan Approval Prediction](https://github.com/ekthavijayesh/Loan-Price_Prediction)
 A machine learning application that predicts loan approval outcomes based on applicant information.
 
 **Technologies:** Python, Pandas, Scikit-learn, Streamlit
 
-### 🤖 AI Chatbot
-An AI chatbot project exploring conversational AI and local language models using Ollama.
-
-**Technologies:** Python, Flask, Ollama, HTML, CSS, JavaScript
-
-### 👥 Customer Segmentation Dashboard
-A machine learning dashboard that groups customers into segments using clustering techniques.
+### 👥 [Customer Segmentation Dashboard](https://github.com/ekthavijayesh/customer-segmentation-dashboard)
+An interactive dashboard that uses K-Means clustering to group customers and visualize customer segments.
 
 **Technologies:** Python, Pandas, Scikit-learn, K-Means, Streamlit
 
-## 📚 Currently Learning
+### 💬 [Chatbot](https://github.com/ekthavijayesh/chatbot)
+A simple chatbot project exploring conversational interactions using Python.
 
-- Machine Learning algorithms and model evaluation
-- Artificial Intelligence and Large Language Models
-- Web application development
-- Data analysis and visualization
-- Model deployment and practical ML workflows
-
-## 📫 Connect With Me
-
-- 💻 GitHub: [@ekthavijayesh](https://github.com/ekthavijayesh)
+**Technologies:** Python
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey.
+## 📈 My Learning Journey
+
+- 📌 Strengthening my Python and programming fundamentals.
+- 📌 Learning supervised and unsupervised machine learning.
+- 📌 Exploring regression, classification, and clustering.
+- 📌 Experimenting with local LLMs and AI-powered applications.
+- 📌 Improving my skills in Git, GitHub, and web development.
+
+---
+
+## 🤝 Let's Connect
+
+- 🐙 **GitHub:** [@ekthavijayesh](https://github.com/ekthavijayesh)
+
+I'm always interested in learning, collaborating on projects, and exploring new ideas in AI and software development.
+
+---
+
+⭐ **Thanks for visiting my profile!** Feel free to explore my repositories and follow my learning journey.
