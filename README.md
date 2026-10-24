@@ -11,11 +11,11 @@ I enjoy learning new technologies and turning ideas into working applications.
 ## 👩‍💻 About Me
 
 - 🎓 Currently pursuing my **Master of Computer Applications (MCA)**.
-- 🤖 Exploring **Machine Learning, Artificial Intelligence, and LLMs**.
+- 🤖 Exploring **Machine Learning, Artificial Intelligence, and Large Language Models (LLMs)**.
 - 🐍 Building projects using Python and data science libraries.
 - 🌐 Learning to develop interactive web applications.
 - 📚 Continuously improving my programming and problem-solving skills.
-- 🎯 Working towards building useful, real-world technology solutions.
+- 🎯 Working towards building useful technology solutions through practical projects.
 
 ---
 
@@ -43,38 +43,52 @@ I enjoy learning new technologies and turning ideas into working applications.
 **Tools**
 - Git & GitHub
 - VS Code
+- Render
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎢 [QueueWise – Amusement Park Queue Prediction](https://github.com/ekthavijayesh/QueueWise-Amusement-Park)
-A machine learning project that predicts amusement park queue waiting times using Python, Flask, and an Extra Trees regression model.
+### ❄️ [SnowQueue – Snow Fantasy, HiLITE Mall, Kozhikode](https://github.com/ekthavijayesh/QueueWise-Amusement-Park)
 
-**Technologies:** Python, Flask, Scikit-learn, Pandas, HTML, CSS, JavaScript
+A machine-learning-based queue waiting-time estimation web application developed as an MCA project in the context of Snow Fantasy at HiLITE Mall, Kozhikode, Kerala. SnowQueue uses a trained regression model and a Flask backend to estimate waiting times from user-provided ride and queue information.
+
+- 🌐 **Live Demo:** [snowqueue.onrender.com](https://snowqueue.onrender.com)
+- 🤖 Machine learning-based waiting-time estimation
+- 🎨 Winter-inspired, responsive web interface
+- ☁️ Deployed using Render
+
+**Technologies:** Python, Flask, Scikit-learn, Pandas, Joblib, HTML, CSS, JavaScript, Render
+
+*Note: SnowQueue is an independent educational prototype using synthetic data. It is not officially affiliated with Snow Fantasy or HiLITE Mall, and it does not provide live queue information.*
 
 ### 📊 [AI-Powered Sales Data Analysis](https://github.com/ekthavijayesh/AI-Powered-sales-Data-Analysis-)
+
 An interactive sales analytics project designed to explore sales data, visualize business insights, and incorporate AI-powered analysis.
 
 **Technologies:** Python, Pandas, Streamlit, Plotly, Ollama
 
 ### 🏡 [House Price Prediction](https://github.com/ekthavijayesh/House-Price-Prediction)
-A machine learning web application that estimates Bengaluru property prices using housing data and regression models.
+
+A machine-learning web application that estimates Bengaluru property prices using housing data and regression models.
 
 **Technologies:** Python, Pandas, Scikit-learn, Random Forest, Streamlit
 
 ### 🏦 [Loan Approval Prediction](https://github.com/ekthavijayesh/Loan-Price_Prediction)
-A machine learning application that predicts loan approval outcomes based on applicant information.
+
+A machine-learning application that predicts loan approval outcomes based on applicant information.
 
 **Technologies:** Python, Pandas, Scikit-learn, Streamlit
 
 ### 👥 [Customer Segmentation Dashboard](https://github.com/ekthavijayesh/customer-segmentation-dashboard)
+
 An interactive dashboard that uses K-Means clustering to group customers and visualize customer segments.
 
 **Technologies:** Python, Pandas, Scikit-learn, K-Means, Streamlit
 
 ### 💬 [Chatbot](https://github.com/ekthavijayesh/chatbot)
-A simple chatbot project exploring conversational interactions using Python.
+
+A chatbot project exploring conversational interactions using Python.
 
 **Technologies:** Python
 
@@ -86,15 +100,27 @@ A simple chatbot project exploring conversational interactions using Python.
 - 📌 Learning supervised and unsupervised machine learning.
 - 📌 Exploring regression, classification, and clustering.
 - 📌 Experimenting with local LLMs and AI-powered applications.
-- 📌 Improving my skills in Git, GitHub, and web development.
+- 📌 Developing web applications using Flask, HTML, CSS, and JavaScript.
+- 📌 Learning model deployment and version control using GitHub.
+
+---
+
+## 🎯 Current Focus
+
+- Building practical machine-learning projects.
+- Exploring AI-powered applications and LLMs.
+- Improving frontend and backend development skills.
+- Learning how to deploy and maintain web applications.
+- Turning academic project ideas into working prototypes.
 
 ---
 
 ## 🤝 Let's Connect
 
 - 🐙 **GitHub:** [@ekthavijayesh](https://github.com/ekthavijayesh)
+- ❄️ **SnowQueue Live Demo:** [snowqueue.onrender.com](https://snowqueue.onrender.com)
 
-I'm always interested in learning, collaborating on projects, and exploring new ideas in AI and software development.
+I'm always interested in learning, collaborating on projects, and exploring new ideas in AI, machine learning, and software development.
 
 ---
 
